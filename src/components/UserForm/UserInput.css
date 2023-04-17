@@ -1,0 +1,26 @@
+.form-control{
+    margin: 0.5rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+}
+
+.form-control label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.form-control input{
+    font: inherit;
+    display: block;
+    width: 100%;
+    border: 1px solid #1f1f1f;
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+
+.actions{
+    display: flex;
+    justify-content: center;
+}
